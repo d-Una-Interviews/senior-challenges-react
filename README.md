@@ -2,10 +2,6 @@
 
 ## Pasos Pre coding
 
-- Crear un repo en github en el siguiente [link](# React senior challenge
-
-## Pasos Pre coding
-
 - Crear un repo en github con el siguiente [link](https://classroom.github.com/a/_5y8V7TF).
 
 ## Task
