@@ -1,10 +1,12 @@
-# React senior challenge
+<img src="https://getduna.com/svg/duna-logo.svg" width="300">
 
-## Pasos Pre coding
+# React Senior Challenge
+
+## 👩‍💻 Proyect Overview
 
 - Crear un repo en github con el siguiente [link](https://classroom.github.com/a/_5y8V7TF).
 
-## Task
+## 🦶 Pasos
 
 - Crear un proyecto de React Typescript ya sea con create-react-app o parcel o nextjs
 - Consumir un servicio en la nube que te sirva como backend as a service (BAAS)
@@ -15,7 +17,7 @@
 - Crear un buen UI/UX
 - Al finalizar todo sube tu código al repositorio y envíanos el link
 
-## Puntos a valorar
+## 🎯 Puntos
 
 1. Buen manejo de la estructura de carpetas
 2. Utilizar algún State Management
@@ -24,10 +26,19 @@
 5. Entender y saber utilizar hooks y class components
 6. Responsive design
 
-Bonus Points
+## 🎯 Bonificaciones
 
 - Montar el proyecto en docker y docker-compose
 - Crear Test E2E se recomienda utilizar cypress
 - Loggin (sentry)
 
+## 📃 Disclaimer
+
+Esto es un desafío técnico sin proposito comercial y D-Una de ninguna manera:
+
+* Compartirá o usará tu código
+* Obligarte a realizar este desafío
+* Compensarte de cualquier forma por realizar este desafío
+
+# Buena suerte 🚀
 Esta prueba se puede completar fácilmente en un lapso de 6 a 8 horas
