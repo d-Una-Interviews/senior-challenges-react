@@ -4,10 +4,11 @@
 
 ## 👩‍💻 Proyect Overview
 
-- Crear un repo en github con el siguiente [link](https://classroom.github.com/a/_5y8V7TF).
+El Objetivo es crear un frontend que permita consumir una api publica y poder almacenar esos datos en un backend as a service utilizando React y typescript
+
 
 ## 🦶 Pasos
-
+- Crear un repo en github con el siguiente [link](https://classroom.github.com/a/_5y8V7TF).
 - Crear un proyecto de React Typescript ya sea con create-react-app o parcel o nextjs
 - Consumir un servicio en la nube que te sirva como backend as a service (BAAS)
 - Hacer login y guardar token
