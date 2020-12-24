@@ -33,6 +33,8 @@ Recuerda que no tenemos un timeline, reclutamos on a rolling basis, pero estarem
 4. Patrones de diseño
 5. Entender y saber utilizar hooks y class components
 6. Responsive design
+7. Typescript
+8. Buena escritura código
 
 ## 🎯 Bonificaciones
 
