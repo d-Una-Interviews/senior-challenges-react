@@ -6,6 +6,13 @@
 
 El Objetivo es crear un frontend que permita consumir una api publica y poder almacenar esos datos en un backend as a service utilizando React y typescript
 
+Cualquier pregunta, unete a nuestro slack para recruiting https://join.slack.com/share/zt-kdmu8h1u-kRbY15SKwBLYEbdUURYwIg
+Pruebas adicionales:
+- React: https://classroom.github.com/a/_5y8V7TF
+- Ruby: https://classroom.github.com/a/OpZ35bbt
+- Go and Flutter coming soon!
+
+Recuerda que no tenemos un timeline, reclutamos on a rolling basis, pero estaremos moviendo a personas a la siguiente fase la primera semana de Enero
 
 ## 🦶 Pasos
 - Crear un repo en github con el siguiente [link](https://classroom.github.com/a/_5y8V7TF).
